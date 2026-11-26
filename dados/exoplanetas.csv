@@ -1,0 +1,36 @@
+nome,distancia_al,ano_descoberta,ascensao_reta,declinacao,metodo
+Proxima Centauri b,4.2,2016,217.4,-62.7,Velocidade radial
+Barnard b,6.0,2024,269.5,4.7,Velocidade radial
+Epsilon Eridani b,10.5,2000,53.2,-9.5,Velocidade radial
+Ross 128 b,11.0,2017,176.9,0.8,Velocidade radial
+Tau Ceti e,11.9,2017,26.0,-15.9,Velocidade radial
+Teegarden's Star b,12.5,2019,43.3,16.9,Velocidade radial
+Wolf 1061 c,14.0,2015,247.6,-12.7,Velocidade radial
+Gliese 876 b,15.2,1998,343.3,-14.3,Velocidade radial
+Gliese 581 c,20.5,2007,229.9,-7.7,Velocidade radial
+LTT 1445 A b,22.5,2019,45.5,-16.6,Trânsito
+Gliese 667 Cc,23.6,2011,259.7,-34.9,Velocidade radial
+61 Virginis b,27.9,2009,199.6,-18.3,Velocidade radial
+GJ 357 d,31.0,2019,144.0,-21.7,Velocidade radial
+Gliese 436 b,31.9,2004,175.5,26.7,Velocidade radial
+TRAPPIST-1 e,40.7,2017,346.6,-5.0,Trânsito
+TRAPPIST-1 f,40.7,2017,346.6,-5.0,Trânsito
+55 Cancri e,41.0,2004,133.1,28.3,Velocidade radial
+HD 40307 g,42.0,2012,88.5,-60.0,Velocidade radial
+Gliese 1214 b,48.0,2009,258.8,5.0,Trânsito
+LHS 1140 b,48.8,2017,11.2,-15.3,Trânsito
+51 Pegasi b,50.6,1995,344.4,20.8,Velocidade radial
+Beta Pictoris b,63.4,2008,86.8,-51.1,Imagem direta
+HD 189733 b,64.5,2005,300.2,22.7,Trânsito
+TOI-700 d,101.4,2020,97.1,-65.6,Trânsito
+K2-18 b,124.0,2015,172.6,7.6,Trânsito
+HR 8799 b,133.0,2008,346.9,21.1,Imagem direta
+HD 209458 b,157.0,1999,330.8,18.9,Trânsito
+Kepler-16 b,245.0,2011,289.1,51.8,Trânsito
+Kepler-186 f,579.0,2014,298.7,43.9,Trânsito
+Kepler-10 b,608.0,2011,285.7,50.2,Trânsito
+Kepler-22 b,635.0,2011,289.2,47.9,Trânsito
+WASP-39 b,700.0,2011,217.3,-3.4,Trânsito
+Kepler-62 f,980.0,2013,283.2,45.3,Trânsito
+WASP-12 b,1410.0,2008,97.6,29.7,Trânsito
+Kepler-452 b,1800.0,2015,296.0,44.3,Trânsito
